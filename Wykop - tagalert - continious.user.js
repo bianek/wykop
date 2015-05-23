@@ -5,7 +5,7 @@
 // @author          dafork
 // @namespace       http://github.com/freakone/wykop
 // @grant           none
-// @include         http://www.wykop.pl/tag/kochampatibodobrzetypuje/
+// @include         http://www.wykop.pl/tag/typydzika/
 // @run-at          document-end
 // ==/UserScript==
 
